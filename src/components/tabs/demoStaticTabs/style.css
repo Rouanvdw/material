@@ -83,3 +83,6 @@ md-tab[disabled] {
 md-tabs-ink-bar {
   background-color: #FFFF8D !important;
 }
+md-tabs .md-next md-icon {
+  transform: rotate(180deg);
+}
